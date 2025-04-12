@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "906255526802",
+    "project_id": "allcampus-app",
+    "storage_bucket": "allcampus-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906255526802:android:50fdd4049988c972d36f4b",
+        "android_client_info": {
+          "package_name": "com.allcampusapp.allcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906255526802-h5k0anbi7ve9i9f9bb667vcfh3kpumai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmX5spcPFAu_a8e5q8zhhIyrLkR2WCD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906255526802-h5k0anbi7ve9i9f9bb667vcfh3kpumai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906255526802-52h82be1i040m0norodcdjd81a8eq9nu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allcampusapp.allcampus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
