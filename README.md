@@ -1,7 +1,6 @@
 
 # LostInTravel App
 
-#Screenshot UI
 <img width="402" alt="Screenshot 2025-06-13 at 14 24 48" src="https://github.com/user-attachments/assets/29b1fb9e-a73b-4099-a8a1-7000aab51fb7" />
 
 
@@ -9,7 +8,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/etineh/LostInTravel_.git
+   git clone https://github.com/etineh/LostInTravel.git
    ```
 
 2. **Open the project in Android Studio**:
