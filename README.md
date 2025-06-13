@@ -1,6 +1,10 @@
 
 # LostInTravel App
 
+#Screenshot UI
+<img width="402" alt="Screenshot 2025-06-13 at 14 24 48" src="https://github.com/user-attachments/assets/29b1fb9e-a73b-4099-a8a1-7000aab51fb7" />
+
+
 ## Setup and Run Instructions
 
 1. **Clone the repository**:
@@ -72,8 +76,5 @@
 - **Multiple Language Support**: Expanding the app to support multiple languages to cater to a wider audience.
 
 - **Analytics Integration**: Adding analytics to track user behavior and improve features based on actual usage patterns.
-
-
-<img width="402" alt="Screenshot 2025-06-13 at 14 24 48" src="https://github.com/user-attachments/assets/29b1fb9e-a73b-4099-a8a1-7000aab51fb7" />
 
 
